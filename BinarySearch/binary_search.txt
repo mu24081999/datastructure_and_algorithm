@@ -1,0 +1,16 @@
+Level 1: What is Binary Search?
+
+Imagine you're searching for a word in a dictionary.
+
+Would you start from page 1?
+
+No.
+
+You open somewhere near the middle.
+
+If your word comes before that page, you search the left half.
+If your word comes after, you search the right half.
+
+Every step throws away half of the remaining possibilities.
+
+That's binary search.
